@@ -1,6 +1,7 @@
 # Kupi-terminal – crypto currency trading terminal
 
 [![Discord](https://img.shields.io/badge/chat-on%20discord-blue.svg)](https://discord.gg/2PtuMAg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsuenot%2Fkupi-terminal.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsuenot%2Fkupi-terminal?ref=badge_shield)
 
 Open source, customized, extendable trading terminal that supports multiple crypto stocks. 
 
@@ -264,3 +265,7 @@ Thank you!
 ## Contact Us
 
 For business inquiries: https://www.facebook.com/dexenot
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsuenot%2Fkupi-terminal.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsuenot%2Fkupi-terminal?ref=badge_large)
